@@ -1,0 +1,8 @@
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\bin\Debug\netcoreapp2.0\HSTPL.RPL.Data.deps.json
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\bin\Debug\netcoreapp2.0\HSTPL.RPL.Data.dll
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\bin\Debug\netcoreapp2.0\HSTPL.RPL.Data.pdb
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\obj\Debug\netcoreapp2.0\HSTPL.RPL.Data.csproj.CoreCompileInputs.cache
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\obj\Debug\netcoreapp2.0\HSTPL.RPL.Data.AssemblyInfoInputs.cache
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\obj\Debug\netcoreapp2.0\HSTPL.RPL.Data.AssemblyInfo.cs
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\obj\Debug\netcoreapp2.0\HSTPL.RPL.Data.dll
+D:\D_drive\DotNetCore\Crypto-Box\HSTPL-RPL.Data\obj\Debug\netcoreapp2.0\HSTPL.RPL.Data.pdb

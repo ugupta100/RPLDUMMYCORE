@@ -1,0 +1,14 @@
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Service.deps.json
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Service.dll
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Service.pdb
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Data.dll
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Repo.dll
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Data.pdb
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\bin\Debug\netcoreapp2.0\CryptoBox.Repo.pdb
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.csprojAssemblyReference.cache
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.csproj.CoreCompileInputs.cache
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.AssemblyInfoInputs.cache
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.AssemblyInfo.cs
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.csproj.CopyComplete
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.dll
+C:\Users\hstpl\Downloads\ASP.NET-CORE-MVC-Sample-Registration-Login-master\ASP.NET-CORE-MVC-Sample-Registration-Login-master\Crypto-Box\Crypto-Box.Service\obj\Debug\netcoreapp2.0\CryptoBox.Service.pdb
